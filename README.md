@@ -44,7 +44,7 @@ I am broadly interested in the **nonequilibrium quantum dynamics of interacting 
 
 *Summer Research Intern (SRP 2025)* | **Institute of Mathematical Sciences (IMSc) Chennai**<br>
 **Project Title -** *Variance Reduction in Large Time Correlations in Scalar Field Theory*<br>
-**Guide:** *Dr. Padmanath Madanagopalan*
+**Guide:** *Dr. Padmanath Madanagopalan*<br>
 <ul>
   <li>Performed Monte Carlo simulations of free real scalar field theory ($\varphi^{4}$, $\lambda=0$) on a $2+1D$ Euclidean lattice to study large-time two-point correlators.</li>
   <li>Investigated the signal-to-noise problem in large Euclidean time correlations, crucial for effective mass extraction in lattice field theory.</li>
@@ -56,8 +56,9 @@ I am broadly interested in the **nonequilibrium quantum dynamics of interacting 
 
 <img src="https://github.com/user-attachments/assets/cf4f12d0-a3cc-4009-8d6d-ccc9098da071" alt="psingh_plot2_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 250px; height: 200px; object-fit: cover; border: 1px solid #d0d7de;">
 
-**Theoretical Modelling of Gas Properties in Dark Matter Halos** | *Remote Project Student*<br>
-*Guide: Dr. Priyanka Singh*
+*Remote Project Student* | **Indian Institute of Technology (IIT), Indore**<br>
+**Project Title -** *Theoretical Modelling of Gas Properties in Dark Matter Halos* | <br>
+**Guide:** *Dr. Priyanka Singh*<br>
 <ul>
   <li>Worked on a review project under the supervision of Dr. Singh.</li>
   <li>Studied an analytic model to predict gas density and temperature in dark matter haloes.</li>
