@@ -29,7 +29,7 @@ I am broadly interested in the **nonequilibrium quantum dynamics of interacting 
 <img src="https://github.com/user-attachments/assets/e4e9b40c-b23a-42f6-8eb6-9b4a7afdd68e" alt="bosons3" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 250px; height: 200px; object-fit: cover; border: 1px solid #d0d7de;">
 
 *Visiting Student (VSP 2026)* | **Harish-Chandra Research Institute (HRI), Prayagraj**<br>
-*Guide: Dr. Sayan Choudhury*
+**Guide:** *Dr. Sayan Choudhury*<br>
 <ul>
   <li>Currently working on driven dissipative many body systems.</li>
   <li>Did a short project on the regular-to-chaotic crossover in an interacting bosonic system using a kicked Bose-Hubbard dimer model.</li>
