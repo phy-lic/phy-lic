@@ -37,10 +37,10 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
 **Guide:** *<a href="https://sites.google.com/cornell.edu/sayan">Dr. Sayan Choudhury</a>*<br>
 <ul>
   <li>Currently working on driven dissipative many body systems.</li>
-  <li>Did a short project on the regular-to-chaotic crossover in an interacting bosonic system using a kicked Bose-Hubbard dimer model.</li>
-  <li>Did a short project on enhancement of coherent regime/superfluid-like regime in a two-site disordered Bose-Hubbard model in the presence of interactions and effects of finite temperature.</li>
+  <li>Did a short project on the regular-to-chaotic crossover in an interacting bosonic system using a kicked Bose-Hubbard dimer model. 
+  <li>Did a short project on enhancement of coherent regime/superfluid-like regime in a two-site disordered Bose-Hubbard model in the presence of interactions and effects of finite temperature.<br> <a href="https://phy-lic.github.io/disordered-bose-hubbard/disordered_BH_presentation_for_gh.pdf">presentation</a></li>
 </ul>
-<a href="https://github.com/phy-lic">[Code]</a> &nbsp;/&nbsp; <a href="#">[Report]</a> &nbsp;/&nbsp; <a href="#">[Presentation]</a>
+<!-- <a href="https://github.com/phy-lic">[Code]</a> &nbsp;/&nbsp; <a href="#">[Report]</a> &nbsp;/&nbsp; <a href="#">[Presentation]</a> -->
 
 </td>
 </tr>
@@ -55,9 +55,11 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
 **Guide:** *<a href="https://www.imsc.res.in/~padmanath/index.html#/">Dr. Padmanath Madanagopalan</a>*<br> 
 <ul>
   <li>Performed Monte Carlo simulations of free real scalar field theory ($\varphi^{4}$, $\lambda=0$) on a $2+1D$ Euclidean lattice to study large-time two-point correlators.</li>
-  <li>Investigated the signal-to-noise problem in large Euclidean time correlations, crucial for effective mass extraction in lattice field theory.</li>
+  <li>Investigated the signal-to-noise problem in large Euclidean time correlations, crucial for effective mass extraction in lattice field theory.<br> <a href="#">report</a></li>
 </ul>
-<a href="https://github.com/phy-lic/lattice-field-simulations">[Repository]</a>
+<!-- <a href="https://github.com/phy-lic/lattice-field-simulations">[Repository]</a> -->
+<a href="https://github.com/phy-lic/lattice-field-simulations">Code</a> / <a href="https://phy-lic.github.io/phi4-lattice-simulation/IMSc_report_for_gh.pdf" target="_blank">Report</a>
+<br>
 
 </td>
 </tr>
@@ -70,12 +72,13 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
 *Remote Project Student* | <a href="https://www.iiti.ac.in/">**Indian Institute of Technology (IIT), Indore**</a> <br>
 **Project Title -** *Theoretical Modelling of Gas Properties in Dark Matter Halos* | <br>
 **Guide:** *<a href="https://sites.google.com/iiti.ac.in/priyanka-singh">Dr. Priyanka Singh</a>*<br>
+Worked on a review project under the supervision of Dr. Singh. <br>
 <ul>
-  <li>Worked on a review project under the supervision of Dr. Singh.</li>
-  <li>Studied an analytic model to predict gas density and temperature in dark matter haloes.</li>
-  <li>Explored the way for a universal gas profile prediction from dark matter profiles.</li>
+  <!-- <li>Worked on a review project under the supervision of Dr. Singh.</li> -->
+  <li>Studied an analytic model to predict gas density and temperature in dark matter haloes.  <br> <a href="https://github.com/phy-lic/dark-matter-gas-profile/psingh_work_draft.pdf">report</a></li>
+  <li>Explored the way for a universal gas profile prediction from dark matter profiles.<br> <a href="https://github.com/phy-lic/dark-matter-gas-profile/psingh_psmf.pdf">notes</a></li>
 </ul>
-<a href="https://github.com/phy-lic">[Repository]</a>
+<!-- <a href="https://github.com/phy-lic">[Repository]</a> -->
 
 </td>
 </tr>
@@ -101,8 +104,8 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
 **Entanglement as a Resource** <br>
 In this project, we review the conceptual foundations of quantum entanglement and its role as a nonclassical resource in communication and cryptography.
 We then demonstrate its practical applications through Superdense Coding, Quantum Teleportation and Quantum Key Distribution (BB84 and E91) using Qiskit and IBM Quantum hardware.
-<br><br>
-<a href="https://github.com/phy-lic">[Repository]</a>
+<br>
+<br> <a href="https://github.com/phy-lic/entanglement-as-resource/sourin_term_paper_presentation.pdf">presentation</a> / <a href="https://github.com/phy-lic/entanglement-as-resource/sourin_term_paper_for_gh.pdf">report</a>
 
 </td>
 </tr>
