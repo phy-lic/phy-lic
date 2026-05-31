@@ -25,9 +25,8 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
 ---
 
 ### Research & Major Projects
-
-<!-- <img src="https://github.com/user-attachments/assets/e4e9b40c-b23a-42f6-8eb6-9b4a7afdd68e" alt="bosons3" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 250px; height: 200px; object-fit: cover; border: 1px solid #d0d7de;"> -->
-<img src="https://github.com/user-attachments/assets/e4e9b40c-b23a-42f6-8eb6-9b4a7afdd68e" alt="bosons3" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 35%; max-width: 250px; height: auto; aspect-ratio: 5/4; object-fit: cover; border: 1px solid #d0d7de;">
+<!-- <img src="https://github.com/user-attachments/assets/e4e9b40c-b23a-42f6-8eb6-9b4a7afdd68e" alt="bosons3" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 35%; max-width: 250px; height: auto; aspect-ratio: 5/4; object-fit: cover; border: 1px solid #d0d7de;"> -->
+<img src="https://github.com/user-attachments/assets/e4e9b40c-b23a-42f6-8eb6-9b4a7afdd68e" alt="bosons3" align="left" width="250" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; border: 1px solid #d0d7de;">
 
 *Visiting Student (VSP 2026)* | <a href="http://www.hri.res.in/">**Harish-Chandra Research Institute (HRI)**</a>**, Allahabad**<br>
 **Guide:** *<a href="https://sites.google.com/cornell.edu/sayan">Dr. Sayan Choudhury</a>*<br>
@@ -41,8 +40,7 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
 
 <br><br>
 
-<!-- <img src="https://github.com/user-attachments/assets/ffe23d3d-b528-43cc-9128-3864dbc0175a" alt="imsc_plot_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 250px; height: 200px; object-fit: cover; border: 1px solid #d0d7de;"> -->
-<img src="https://github.com/user-attachments/assets/ffe23d3d-b528-43cc-9128-3864dbc0175a" alt="imsc_plot_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 35%; max-width: 280px; height: auto; aspect-ratio: 5/4; object-fit: cover; border: 1px solid #d0d7de;">
+<img src="https://github.com/user-attachments/assets/ffe23d3d-b528-43cc-9128-3864dbc0175a" alt="imsc_plot_gh" align="left" width="280" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; border: 1px solid #d0d7de;">
 
 *Summer Research Intern (SRP 2025)* | <a href="https://www.imsc.res.in/">**Institute of Mathematical Sciences (IMSc), Chennai**</a> <br>
 **Project Title -** *Variance Reduction in Large Time Correlations in Scalar Field Theory*<br>
@@ -56,8 +54,8 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
 
 <br><br>
 
-<!-- <img src="https://github.com/user-attachments/assets/cf4f12d0-a3cc-4009-8d6d-ccc9098da071" alt="psingh_plot2_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 250px; height: 200px; object-fit: cover; border: 1px solid #d0d7de;"> -->
-<img src="https://github.com/user-attachments/assets/cf4f12d0-a3cc-4009-8d6d-ccc9098da071" alt="psingh_plot2_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 35%; max-width: 250px; height: auto; aspect-ratio: 5/4; object-fit: cover; border: 1px solid #d0d7de;">
+<!-- <img src="https://github.com/user-attachments/assets/cf4f12d0-a3cc-4009-8d6d-ccc9098da071" alt="psingh_plot2_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 35%; max-width: 250px; height: auto; aspect-ratio: 5/4; object-fit: cover; border: 1px solid #d0d7de;"> -->
+<img src="https://github.com/user-attachments/assets/cf4f12d0-a3cc-4009-8d6d-ccc9098da071" alt="psingh_plot2_gh" align="left" width="250" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; border: 1px solid #d0d7de;">
 
 *Remote Project Student* | <a href="https://www.iiti.ac.in/">**Indian Institute of Technology (IIT), Indore**</a> <br>
 **Project Title -** *Theoretical Modelling of Gas Properties in Dark Matter Halos* | <br>
@@ -77,16 +75,15 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
 <!-- <img width="766" height="193" alt="sourin_term_paper_plot1_gh" src="https://github.com/user-attachments/assets/2531544d-8f0e-4c6e-8cd3-0f251dcd5bf0" />
 **Entanglement as a Resource** <br>
 We studied the foundations of entanglement and nonlocal correlations through the EPR paradox, Bell's theorem, and the CHSH framework. We implemented superdense coding, quantum teleportation, and quantum key distribution protocols (BB84 \& E91) in Qiskit and IBM Quantum hardware. -->
-<img src="https://github.com/user-attachments/assets/2531544d-8f0e-4c6e-8cd3-0f251dcd5bf0" alt="sourin_term_paper_plot1_gh" align="left" width="390" style="border-radius: 8px; border: 1px solid #d0d7de; margin-right: 20px;">
 
+<!-- <img src="https://github.com/user-attachments/assets/2531544d-8f0e-4c6e-8cd3-0f251dcd5bf0" alt="sourin_term_paper_plot1_gh" align="left" width="390" style="border-radius: 8px; border: 1px solid #d0d7de; margin-right: 20px;"> -->
+<img src="https://github.com/user-attachments/assets/2531544d-8f0e-4c6e-8cd3-0f251dcd5bf0" alt="sourin_term_paper_plot1_gh" align="left" width="390" style="border-radius: 8px; border: 1px solid #d0d7de; margin-right: 20px; margin-bottom: 10px;">
 
 **Entanglement as a Resource** <br>
 In this project, we review the conceptual foundations of quantum entanglement and its role as a nonclassical resource in communication and cryptography.
 We then demonstrate its practical applications through Superdense Coding,Quantum Teleportation and Quantum Key Distribution (BB84 and E91) using Qiskit and IBM Quantum hardware.
 <br><br>
 <a href="https://github.com/phy-lic">[Repository]</a>
-<br>
-<!-- <p align="center"> -->
 <br clear="left"/>
 
 ---
