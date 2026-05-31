@@ -26,21 +26,29 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
 
 ### Research & Major Projects
 
-<img src="https://github.com/user-attachments/assets/e4e9b40c-b23a-42f6-8eb6-9b4a7afdd68e" alt="bosons3" align="left" width="250" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; border: 1px solid #d0d7de;">
+<table border="0" style="width: 100%; border-collapse: collapse;">
+<tr>
+<td width="35%" valign="top" style="border: none; padding-right: 20px; padding-bottom: 30px;">
+<img src="https://github.com/user-attachments/assets/e4e9b40c-b23a-42f6-8eb6-9b4a7afdd68e" alt="bosons3" width="100%" style="border-radius: 4px; border: 1px solid #d0d7de;">
+</td>
+<td width="65%" valign="top" style="border: none; padding-bottom: 30px;">
 
 *Visiting Student (VSP 2026)* | <a href="http://www.hri.res.in/">**Harish-Chandra Research Institute (HRI)**</a>**, Allahabad**<br>
 **Guide:** *<a href="https://sites.google.com/cornell.edu/sayan">Dr. Sayan Choudhury</a>*<br>
 <ul>
   <li>Currently working on driven dissipative many body systems.</li>
   <li>Did a short project on the regular-to-chaotic crossover in an interacting bosonic system using a kicked Bose-Hubbard dimer model.</li>
-  <li>Did a short project on enhancement of coherent regime/superfluid-like regime in a two-site disordered Bose-Hubbard model in the presence of interactions and finite-temperature effects.</li>
+  <li>Did a short project on enhancement of coherent regime/superfluid-like regime in a two-site disordered Bose-Hubbard model in the presence of interactions and effects of finite temperature.</li>
 </ul>
 <a href="https://github.com/phy-lic">[Code]</a> &nbsp;/&nbsp; <a href="#">[Report]</a> &nbsp;/&nbsp; <a href="#">[Presentation]</a>
-<br clear="left"/>
 
-<br><br>
-
-<img src="https://github.com/user-attachments/assets/ffe23d3d-b528-43cc-9128-3864dbc0175a" alt="imsc_plot_gh" align="left" width="250" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; border: 1px solid #d0d7de;">
+</td>
+</tr>
+<tr>
+<td width="35%" valign="top" style="border: none; padding-right: 20px; padding-bottom: 30px;">
+<img src="https://github.com/user-attachments/assets/ffe23d3d-b528-43cc-9128-3864dbc0175a" alt="imsc_plot_gh" width="100%" style="border-radius: 4px; border: 1px solid #d0d7de;">
+</td>
+<td width="65%" valign="top" style="border: none; padding-bottom: 30px;">
 
 *Summer Research Intern (SRP 2025)* | <a href="https://www.imsc.res.in/">**Institute of Mathematical Sciences (IMSc), Chennai**</a> <br>
 **Project Title -** *Variance Reduction in Large Time Correlations in Scalar Field Theory*<br>
@@ -50,11 +58,14 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
   <li>Investigated the signal-to-noise problem in large Euclidean time correlations, crucial for effective mass extraction in lattice field theory.</li>
 </ul>
 <a href="https://github.com/phy-lic/lattice-field-simulations">[Repository]</a>
-<br clear="left"/>
 
-<br><br>
-
-<img src="https://github.com/user-attachments/assets/cf4f12d0-a3cc-4009-8d6d-ccc9098da071" alt="psingh_plot2_gh" align="left" width="250" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; border: 1px solid #d0d7de;">
+</td>
+</tr>
+<tr>
+<td width="35%" valign="top" style="border: none; padding-right: 20px; padding-bottom: 10px;">
+<img src="https://github.com/user-attachments/assets/cf4f12d0-a3cc-4009-8d6d-ccc9098da071" alt="psingh_plot2_gh" width="100%" style="border-radius: 4px; border: 1px solid #d0d7de;">
+</td>
+<td width="65%" valign="top" style="border: none; padding-bottom: 10px;">
 
 *Remote Project Student* | <a href="https://www.iiti.ac.in/">**Indian Institute of Technology (IIT), Indore**</a> <br>
 **Project Title -** *Theoretical Modelling of Gas Properties in Dark Matter Halos* | <br>
@@ -65,20 +76,37 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
   <li>Explored the way for a universal gas profile prediction from dark matter profiles.</li>
 </ul>
 <a href="https://github.com/phy-lic">[Repository]</a>
-<br clear="left"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Course Projects
 
-<img src="https://github.com/user-attachments/assets/2531544d-8f0e-4c6e-8cd3-0f251dcd5bf0" alt="sourin_term_paper_plot1_gh" align="left" width="390" style="margin-right: 20px; margin-bottom: 10px; border-radius: 8px; border: 1px solid #d0d7de;">
+<!-- <table border="0" style="width: 100%; border-collapse: collapse;">
+<tr>
+<td width="45%" valign="top" style="border: none; padding-right: 20px;">
+<img src="https://github.com/user-attachments/assets/2531544d-8f0e-4c6e-8cd3-0f251dcd5bf0" alt="sourin_term_paper_plot1_gh" width="100%" style="border-radius: 8px; border: 1px solid #d0d7de;">
+</td>
+<td width="55%" valign="top" style="border: none;"> -->
+<table border="0" style="width: 100%; border-collapse: collapse;">
+<tr>
+<td width="35%" valign="top" style="border: none; padding-right: 20px;">
+<img src="https://github.com/user-attachments/assets/2531544d-8f0e-4c6e-8cd3-0f251dcd5bf0" alt="sourin_term_paper_plot1_gh" width="100%" style="border-radius: 8px; border: 1px solid #d0d7de;">
+</td>
+<td width="65%" valign="top" style="border: none;">
 
 **Entanglement as a Resource** <br>
 In this project, we review the conceptual foundations of quantum entanglement and its role as a nonclassical resource in communication and cryptography.
 We then demonstrate its practical applications through Superdense Coding, Quantum Teleportation and Quantum Key Distribution (BB84 and E91) using Qiskit and IBM Quantum hardware.
 <br><br>
 <a href="https://github.com/phy-lic">[Repository]</a>
-<br clear="left"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -96,4 +124,5 @@ We then demonstrate its practical applications through Superdense Coding, Quantu
 
 <p align="center">
   <small>Design is quite inspired by <a href="https://jonbarron.info/">Jon Barron's website</a>.</small>
+</p>="https://jonbarron.info/">Jon Barron's website</a>.</small>
 </p>
