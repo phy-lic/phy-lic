@@ -26,7 +26,8 @@ I am broadly interested in the **nonequilibrium quantum dynamics of interacting 
 
 ### Research & Projects
 
-<img src="https://github.com/user-attachments/assets/e4e9b40c-b23a-42f6-8eb6-9b4a7afdd68e" alt="bosons3" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 250px; height: 200px; object-fit: cover; border: 1px solid #d0d7de;">
+<!-- <img src="https://github.com/user-attachments/assets/e4e9b40c-b23a-42f6-8eb6-9b4a7afdd68e" alt="bosons3" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 250px; height: 200px; object-fit: cover; border: 1px solid #d0d7de;"> -->
+<img src="https://github.com/user-attachments/assets/e4e9b40c-b23a-42f6-8eb6-9b4a7afdd68e" alt="bosons3" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 35%; max-width: 250px; height: auto; aspect-ratio: 5/4; object-fit: cover; border: 1px solid #d0d7de;">
 
 *Visiting Student (VSP 2026)* | **Harish-Chandra Research Institute (HRI), Prayagraj**<br>
 **Guide:** *Dr. Sayan Choudhury*<br>
@@ -40,7 +41,8 @@ I am broadly interested in the **nonequilibrium quantum dynamics of interacting 
 
 <br><br>
 
-<img src="https://github.com/user-attachments/assets/ffe23d3d-b528-43cc-9128-3864dbc0175a" alt="imsc_plot_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 250px; height: 200px; object-fit: cover; border: 1px solid #d0d7de;">
+<!-- <img src="https://github.com/user-attachments/assets/ffe23d3d-b528-43cc-9128-3864dbc0175a" alt="imsc_plot_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 250px; height: 200px; object-fit: cover; border: 1px solid #d0d7de;"> -->
+<img src="https://github.com/user-attachments/assets/ffe23d3d-b528-43cc-9128-3864dbc0175a" alt="imsc_plot_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 35%; max-width: 250px; height: auto; aspect-ratio: 5/4; object-fit: cover; border: 1px solid #d0d7de;">
 
 *Summer Research Intern (SRP 2025)* | **Institute of Mathematical Sciences (IMSc) Chennai**<br>
 **Project Title -** *Variance Reduction in Large Time Correlations in Scalar Field Theory*<br>
@@ -54,7 +56,8 @@ I am broadly interested in the **nonequilibrium quantum dynamics of interacting 
 
 <br><br>
 
-<img src="https://github.com/user-attachments/assets/cf4f12d0-a3cc-4009-8d6d-ccc9098da071" alt="psingh_plot2_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 250px; height: 200px; object-fit: cover; border: 1px solid #d0d7de;">
+<!-- <img src="https://github.com/user-attachments/assets/cf4f12d0-a3cc-4009-8d6d-ccc9098da071" alt="psingh_plot2_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 250px; height: 200px; object-fit: cover; border: 1px solid #d0d7de;"> -->
+<img src="https://github.com/user-attachments/assets/cf4f12d0-a3cc-4009-8d6d-ccc9098da071" alt="psingh_plot2_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 35%; max-width: 250px; height: auto; aspect-ratio: 5/4; object-fit: cover; border: 1px solid #d0d7de;">
 
 *Remote Project Student* | **Indian Institute of Technology (IIT), Indore**<br>
 **Project Title -** *Theoretical Modelling of Gas Properties in Dark Matter Halos* | <br>
