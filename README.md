@@ -35,11 +35,13 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
 
 *Visiting Student (VSP 2026)* | <a href="http://www.hri.res.in/">**Harish-Chandra Research Institute (HRI)**</a>**, Allahabad**<br>
 **Guide:** *<a href="https://sites.google.com/cornell.edu/sayan">Dr. Sayan Choudhury</a>*<br>
-<ul>
-  <li>Currently working on a project on driven dissipative many body systems.</li>
-  <li>Did a short project on the regular-to-chaotic crossover in an interacting bosonic system using a kicked Bose-Hubbard dimer model. 
-  <li>Did a short project on enhancement of coherent regime/superfluid-like regime in a two-site disordered Bose-Hubbard model in the presence of interactions and effects of finite temperature.<br> <a href="https://phy-lic.github.io/disordered-bose-hubbard/disordered_BH_presentation_for_gh.pdf">presentation</a></li>
-</ul>
+<!-- <ul> -->
+  <!-- <li>Currently working on a project on driven dissipative many body systems.</li> -->
+  Currently working on a project on driven dissipative many body systems. <br>
+  <!-- <li>Did a short project on the regular-to-chaotic crossover in an interacting bosonic system using a kicked Bose-Hubbard dimer model.  -->
+  project 2: regular-to-chaotic crossover in an interacting bosonic system using a *kicked Bose-Hubbard dimer model*. <br> <br>
+  project 1:  enhancement of coherent regime/superfluid-like regime in a *two-site disordered Bose-Hubbard model* in the presence of interactions and effects of finite temperature.<br> <a href="https://phy-lic.github.io/disordered-bose-hubbard/disordered_BH_presentation_for_gh.pdf">presentation</a> <br>
+<!-- </ul> -->
 <!-- <a href="https://github.com/phy-lic">[Code]</a> &nbsp;/&nbsp; <a href="#">[Report]</a> &nbsp;/&nbsp; <a href="#">[Presentation]</a> -->
 
 </td>
