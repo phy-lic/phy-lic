@@ -124,5 +124,4 @@ We then demonstrate its practical applications through Superdense Coding, Quantu
 
 <p align="center">
   <small>Design is quite inspired by <a href="https://jonbarron.info/">Jon Barron's website</a>.</small>
-</p>="https://jonbarron.info/">Jon Barron's website</a>.</small>
 </p>
