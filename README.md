@@ -42,7 +42,7 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
 <br><br>
 
 <!-- <img src="https://github.com/user-attachments/assets/ffe23d3d-b528-43cc-9128-3864dbc0175a" alt="imsc_plot_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 250px; height: 200px; object-fit: cover; border: 1px solid #d0d7de;"> -->
-<img src="https://github.com/user-attachments/assets/ffe23d3d-b528-43cc-9128-3864dbc0175a" alt="imsc_plot_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 35%; max-width: 250px; height: auto; aspect-ratio: 5/4; object-fit: cover; border: 1px solid #d0d7de;">
+<img src="https://github.com/user-attachments/assets/ffe23d3d-b528-43cc-9128-3864dbc0175a" alt="imsc_plot_gh" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 4px; width: 35%; max-width: 280px; height: auto; aspect-ratio: 5/4; object-fit: cover; border: 1px solid #d0d7de;">
 
 *Summer Research Intern (SRP 2025)* | <a href="https://www.imsc.res.in/">**Institute of Mathematical Sciences (IMSc), Chennai**</a> <br>
 **Project Title -** *Variance Reduction in Large Time Correlations in Scalar Field Theory*<br>
@@ -83,8 +83,10 @@ We studied the foundations of entanglement and nonlocal correlations through the
 **Entanglement as a Resource** <br>
 In this project, we review the conceptual foundations of quantum entanglement and its role as a nonclassical resource in communication and cryptography.
 We then demonstrate its practical applications through Superdense Coding,Quantum Teleportation and Quantum Key Distribution (BB84 and E91) using Qiskit and IBM Quantum hardware.
-<a href="https://github.com/phy-lic">[Repository]</a>
 <br><br>
+<a href="https://github.com/phy-lic">[Repository]</a>
+<br>
+<!-- <p align="center"> -->
 <br clear="left"/>
 
 ---
