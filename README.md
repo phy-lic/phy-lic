@@ -77,12 +77,12 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
 <!-- <img width="766" height="193" alt="sourin_term_paper_plot1_gh" src="https://github.com/user-attachments/assets/2531544d-8f0e-4c6e-8cd3-0f251dcd5bf0" />
 **Entanglement as a Resource** <br>
 We studied the foundations of entanglement and nonlocal correlations through the EPR paradox, Bell's theorem, and the CHSH framework. We implemented superdense coding, quantum teleportation, and quantum key distribution protocols (BB84 \& E91) in Qiskit and IBM Quantum hardware. -->
-<img src="https://github.com/user-attachments/assets/2531544d-8f0e-4c6e-8cd3-0f251dcd5bf0" alt="sourin_term_paper_plot1_gh" align="left" width="450" style="border-radius: 8px; border: 1px solid #d0d7de; margin-right: 20px;">
+<img src="https://github.com/user-attachments/assets/2531544d-8f0e-4c6e-8cd3-0f251dcd5bf0" alt="sourin_term_paper_plot1_gh" align="left" width="390" style="border-radius: 8px; border: 1px solid #d0d7de; margin-right: 20px;">
 
 
 **Entanglement as a Resource** <br>
 In this project, we review the conceptual foundations of quantum entanglement and its role as a nonclassical resource in communication and cryptography.
-We then demonstrate its practical applications through Superdense Coding,Quantum Teleportation, and Quantum Key Distribution (BB84 and E91) using Qiskit and IBM Quantum hardware.
+We then demonstrate its practical applications through Superdense Coding,Quantum Teleportation and Quantum Key Distribution (BB84 and E91) using Qiskit and IBM Quantum hardware.
 <a href="https://github.com/phy-lic">[Repository]</a>
 <br><br>
 <br clear="left"/>
