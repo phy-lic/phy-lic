@@ -39,8 +39,8 @@ However, currently, I am working on **nonequilibrium quantum dynamics in interac
   <!-- <li>Currently working on a project on driven dissipative many body systems.</li> -->
   Currently working on a project on driven dissipative many body systems. <br>
   <!-- <li>Did a short project on the regular-to-chaotic crossover in an interacting bosonic system using a kicked Bose-Hubbard dimer model.  -->
-  project 2: regular-to-chaotic crossover in an interacting bosonic system using a *kicked Bose-Hubbard dimer model*. <br> <br>
-  project 1:  enhancement of coherent regime/superfluid-like regime in a *two-site disordered Bose-Hubbard model* in the presence of interactions and effects of finite temperature.<br> <a href="https://phy-lic.github.io/disordered-bose-hubbard/disordered_BH_presentation_for_gh.pdf">presentation</a> <br>
+  micro project 2: regular-to-chaotic crossover in an interacting bosonic system using a *kicked Bose-Hubbard dimer model*. <br> <br>
+  micro project 1:  enhancement of coherent regime/superfluid-like regime in a *two-site disordered Bose-Hubbard model* in the presence of interactions and effects of finite temperature.<br> <a href="https://phy-lic.github.io/disordered-bose-hubbard/disordered_BH_presentation_for_gh.pdf">presentation</a> <br>
 <!-- </ul> -->
 <!-- <a href="https://github.com/phy-lic">[Code]</a> &nbsp;/&nbsp; <a href="#">[Report]</a> &nbsp;/&nbsp; <a href="#">[Presentation]</a> -->
 
