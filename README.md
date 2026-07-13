@@ -4,7 +4,7 @@ I am a 4th-year BS-MS undergraduate majoring in Physics at <a href="https://www.
 I am broadly interested in many-body physics, nonequilibrium quantum dynamics, and statistical mechanics.
 
 Currently, I am working in a project on **quantum chaos** in  a floquet driven many-body model in *<a href="https://sites.google.com/cornell.edu/sayan">Theory of Quantum and Ultracold Matter</a>* group of Prof. Sayan Choudhury at <a href="https://www.hri.res.in">**HRI Allahabad (Prayagraj)**</a>. <br>  
-In the past, I have worked with <a href="https://www.imsc.res.in/~padmanath/index.html#/">Dr. Padmanath Madanagopalan</a> in <a href="https://www.imsc.res.in/">**IMSc, Chennai**</a> on a method of reducing variance in large time two-point correlations obtained from MC simulations, in scalar field theory, and with <a href="https://sites.google.com/iiti.ac.in/priyanka-singh">Prof. Priyanka Singh</a>, <a href="https://www.iiti.ac.in/">**IIT Indore**</a> remotely on modelling of gas properties in dark matter halos.
+In the past, I have worked with <a href="https://www.imsc.res.in/~padmanath/index.html#/">Dr. Padmanath Madanagopalan</a> at <a href="https://www.imsc.res.in/">**IMSc, Chennai**</a> on a method for reducing variance in large time two-point correlations obtained from Monte Carlo simulations, in scalar field theory. I also worked remotely with <a href="https://sites.google.com/iiti.ac.in/priyanka-singh">Prof. Priyanka Singh</a>, <a href="https://www.iiti.ac.in/">**IIT Indore**</a> on modelling of gas properties in dark matter halos.
 <p>
   <a href="mailto:rg23ms099@iiserkol.ac.in">Email</a> &nbsp;/&nbsp;
   <a href="https://phy-lic.github.io">Website</a> &nbsp;/&nbsp;
