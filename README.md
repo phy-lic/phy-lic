@@ -30,7 +30,7 @@ In the past, I have worked with <a href="https://www.imsc.res.in/~padmanath/inde
 <td width="65%" valign="top" style="border: none; padding-bottom: 30px;">
 <!-- Currently working on a project on quantum chaos on driven many-body systems.  -->
 <strong>Quantum chaos in a kicked Bose-Hubbard dimer model</strong> <br>
-  I studied the integrability to chaos crossover in a kicked BH dimer model (which has a semicalassical counterpart) using spectral statistics and multifractality dimension analysis and studied rich local phase space dynamics using quantum information tools like OTOCs, entanglement entropy.<br> <a href=".">presentation</a> <br>
+  I studied the integrability to chaos crossover in a kicked BH dimer model (which has a semicalassical counterpart) using spectral statistics and multifractality dimension analysis and studied rich local phase space dynamics using quantum information tools like OTOCs, entanglement entropy.<br> <a href="https://phy-lic.github.io/chaos-in-bose-hubbard-dimer/Floquet_double_well.pdf">presentation</a> <br>
   </td>
 </tr>
 
